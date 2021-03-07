@@ -1,0 +1,6 @@
+# Converted by: https://github.com/anthonytwh/pihole-blocklist-converter
+# Blocklist: https://raw.githubusercontent.com/brave/adblock-lists/master/brave-lists/brave-specific.txt
+localhost
+127.0.0.1
+[::1]
+mc.yandex.ru

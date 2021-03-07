@@ -1,0 +1,9 @@
+# Converted by: https://github.com/anthonytwh/pihole-blocklist-converter
+# Blocklist: https://raw.githubusercontent.com/brave/adblock-lists/master/brave-lists/brave-social.txt
+connect.facebook.net
+connect.facebook.com
+api.twitter.com
+platform.twitter.com
+licdn.com
+linkedin.com
+outbrain.com
